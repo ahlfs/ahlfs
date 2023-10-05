@@ -1,7 +1,7 @@
 [![MasterHead](https://scontent.fjog4-1.fna.fbcdn.net/v/t39.30808-6/347838034_790360812565195_8092468810296845749_n.png?_nc_cat=102&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeHF_L1e9xnuJ6P8OB4aZwByeLqyxiT7A3J4urLGJPsDckuSQxZKj52TxRDLuYRkgVODPNu9S7Tp9Bwxktwz90-w&_nc_ohc=c0qIBbd8nOAAX_JRICF&_nc_ht=scontent.fjog4-1.fna&oh=00_AfBDvwwP5oUpXSAM-NtsCMLbDUZ75xwnZIi7Nd1--Xmr0g&oe=65228FA7)]
 <h1 align="center">Hi There👋, I'm Ahlfs</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/among-us-astronauta-boneco-nu8afydwOkzgqLjerc?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/")
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/among-us-astronauta-boneco-nu8afydwOkzgqLjerc?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlfs&label=Profile%20views&color=0e75b6&style=flat" alt="ahlfs" /> </p>
 
