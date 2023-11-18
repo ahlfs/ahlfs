@@ -1,5 +1,5 @@
 # ✌️ About Me
-⚡Fullstack Developer<br><br>❤️Emma Watson is my Celebrity Crush<br><br>😺Cat Lover
+⚡Fullstack Developer<br>⚙️Technology Enthusiast<br>
 
 
 ## 🌐 Socials
