@@ -1,5 +1,5 @@
 # ✌️ About Me
-⚡Fullstack Developer<br>⚙️Technology Enthusiast<br>
+⚡Fullstack Developer<br>🧠IT Enthusiast<br>
 
 
 ## 🌐 Socials
